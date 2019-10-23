@@ -102,13 +102,6 @@ Data fields:
 •	SaleType: Type of sale
 •	SaleCondition: Condition of sale
 
-
-
-
-
-
-
-
 MSSubClass:
 Identifies the type of dwelling involved in the sale.	
 •	20	1-STORY 1946 & NEWER ALL STYLES
@@ -219,7 +212,6 @@ Physical locations within Ames city limits.
 •	Timber	Timberland
 •	Veenker	Veenker
 
-			
 Condition 1: 
 Proximity to various conditions.
 •	Artery	Adjacent to arterial street
@@ -355,8 +347,8 @@ Exterior covering on house (if more than one material).
 •	Wd Sdng	Wood Siding
 •	WdShing	Wood Shingles
 
-          MasVnrType: 
-	Masonry veneer type.
+MasVnrType: 
+Masonry veneer type.
 •	BrkCmn	Brick Common
 •	BrkFace	Brick Face
 •	CBlock	Cinder Block
