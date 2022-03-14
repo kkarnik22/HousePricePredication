@@ -661,3 +661,6 @@ Condition of sale.
 •	Family	Sale between family members
 •	Partial	Home was not completed when last assessed (associated with New Homes)
 
+
+---***---
+
