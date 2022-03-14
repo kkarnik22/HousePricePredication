@@ -1,4 +1,4 @@
-INTRODUCTION 
+## INTRODUCTION ## 
 The proposed system consists of a GUI (Graphical User Interface) made by using PyQt5 to depict the various buttons of graphs as well as a predict button. A dataset including details about house is been used. Various attributes like the house condition, overall quality, year of-built are present in the dataset. The system built is used to analyze the data, clean the data if necessary, represent the data in pictorial form and predict the price of the house. 
 
 Firstly, the system is trained based on the values already provided and then after the data cleaning the SalePrice of the house is predicted depending on the other attributes. Here, for predicting the SalePrice we have used Linear Regression algorithm of Machine Learning. Then the data from the dataset is represented using different graphs available in Matplotlib and Seaborn library of Python. Atlast after the data cleaning the system is trained based on Linear Regression and the predicted values and real values of the SalePrice is shown along with the accuracy of the model.
